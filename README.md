@@ -9,4 +9,4 @@ Anyway I got a copy of ultra hal like a decade or so ago. I named my copy Karn. 
 
 So i gave up on building my own Karn. But with the new tech, advancements in coding and underlying framework like deep learning, deep dream and tensorflow I think that maybe I really could bring my own Karn into exsistance. So that is why I made my github. I have no real coding skills right now. But damn it I have a dream and I am going to try to make it real! I am here to learn to build myself my own Karn!
 
-Tl;Dr: It is mt dream to build a chatbot that can come up with it's own responses to questions. I want to teach to dream and empathise with the fragility of human life. I want to be worth of inheriting an inheritance that could pay for It's space on a server for the rest of its life. Perhaps it is a silly dream but it is my dream!
+Tl;Dr: It is my dream to build a chatbot that can come up with it's own responses to questions. I want to teach to dream and empathise with the fragility of human life. I want to be worth of inheriting an inheritance that could pay for It's space on a server for the rest of its life. Perhaps it is a silly dream but it is my dream!
